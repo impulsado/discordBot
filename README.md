@@ -6,7 +6,7 @@
 <br/>
 
 Discord Chat Bot to know a little bit more about me.  <br/>
-Test: Login to [**Discord Server**](https://discord.gg/cBRtfnFFPz) --> Go to "try-me" room --> Type commands.
+Login to [**Discord Server**](https://discord.gg/cBRtfnFFPz) --> Go to "try-me" room --> Type commands.
 
 ## Commands
 - !help
